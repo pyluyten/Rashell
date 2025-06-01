@@ -1,3 +1,7 @@
+***This is a fork from ashell https://github.com/MalpenZibo/ashell***
+***For the moment there are no change***
+
+
 # Ashell
 
 A ready to go Wayland status bar for Hyprland.
